@@ -1,2 +1,5 @@
 # hello-world
-swag money
+
+My Name's Chris!
+
+I like to rock and roll and take naps.
